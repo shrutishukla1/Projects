@@ -1,1 +1,2 @@
 # Projects
+This project is an interactive web-based game of Rock, Paper, Scissors. It’s built using HTML, CSS, and JavaScript. The game allows users to choose between Rock, Paper, or Scissors and then plays against the computer, which makes its choice randomly. The rules of the game are encoded into the JavaScript logic, providing a dynamic gaming experience. The HTML and CSS give the game a user-friendly interface and appealing visuals. This project demonstrates proficiency in front-end web development and the use of JavaScript for client-side scripting
